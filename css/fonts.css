@@ -1,0 +1,47 @@
+/* Font family: Windsong*/
+@font-face {
+    font-family: Windsong;
+    src: url(../Fonts/WindSong/WindSong-Medium.ttf);
+}
+
+/*Font family : Lateef*/
+@font-face {
+    font-family: Lateef;
+    src: url(../Fonts/Lateef/Lateef-Regular.ttf);
+}
+
+/*Font family : Allura*/
+@font-face {
+    font-family: Allura;
+    src: url(../Fonts/Allura/Allura-Regular.ttf);
+}
+
+/*Font family : Amatic_SC*/
+@font-face {
+    font-family: Amatic_SC;
+    src: url(../Fonts/Amatic_SC/AmaticSC-Regular.ttf);
+}
+
+/*Font family : Cinzel*/
+@font-face {
+    font-family: Cinzel;
+    src: url(../Fonts/Cinzel_Decorative/);
+}
+
+/*Font family : Shadows_into_light*/
+@font-face {
+    font-family: Shadows;
+    src: url(../Fonts/Shadows_Into_Light_Two/ShadowsIntoLightTwo-Regular.ttf);
+}
+
+/*Font family : STIX*/
+@font-face {
+    font-family: Stix;
+    src: url(../Fonts/STIX_Two_Text/static/STIXTwoText-Regular.ttf);
+}
+
+/*Font family : Tangerine*/
+@font-face {
+    font-family: Tangerine;
+    src: url(../Fonts/Tangerine/Tangerine-Regular.ttf);
+}
